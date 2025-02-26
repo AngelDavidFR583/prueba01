@@ -4,3 +4,4 @@ yuca
 carne
 manzana
 pan
+salami
